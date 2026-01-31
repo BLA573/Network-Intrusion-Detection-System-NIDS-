@@ -1,7 +1,3 @@
-This script, `capture.py`, is a lightweight Intrusion Detection System (IDS) designed to monitor network traffic in real-time. It captures packets, extracts key features (including MQTT and DNS data), and generates alerts based on predefined security rules.
-
----
-
 # Network Intrusion Detection System (NIDS)
 
 ## 📌 Overview
@@ -77,3 +73,4 @@ You can customize the detection sensitivity by modifying the **thresholds** insi
 * `MQTT_RATE_THRESHOLD`: Maximum allowed MQTT messages per minute.
 
 Would you like me to help you refine the **deduplication logic** in the advanced alert function?
+
